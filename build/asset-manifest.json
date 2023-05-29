@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Hosam91/Food-Order.git)/static/css/main.d37bb406.css",
+    "main.js": "/Hosam91/Food-Order.git)/static/js/main.16a8cecf.js",
+    "static/media/meals.jpg": "/Hosam91/Food-Order.git)/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/Hosam91/Food-Order.git)/index.html",
+    "main.d37bb406.css.map": "/Hosam91/Food-Order.git)/static/css/main.d37bb406.css.map",
+    "main.16a8cecf.js.map": "/Hosam91/Food-Order.git)/static/js/main.16a8cecf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d37bb406.css",
+    "static/js/main.16a8cecf.js"
+  ]
+}
